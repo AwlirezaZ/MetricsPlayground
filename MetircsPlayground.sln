@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetircsPlayground", "MetircsPlayground\MetircsPlayground.csproj", "{A1E1717F-9886-4253-ABD2-CDE117220D8D}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{7881D73D-733B-4AF6-8DE2-6CAE0F635BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E1717F-9886-4253-ABD2-CDE117220D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E1717F-9886-4253-ABD2-CDE117220D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E1717F-9886-4253-ABD2-CDE117220D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E1717F-9886-4253-ABD2-CDE117220D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7881D73D-733B-4AF6-8DE2-6CAE0F635BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7881D73D-733B-4AF6-8DE2-6CAE0F635BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7881D73D-733B-4AF6-8DE2-6CAE0F635BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7881D73D-733B-4AF6-8DE2-6CAE0F635BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E26F75AC-7874-4952-97D4-8F2B96CCD59F}
+	EndGlobalSection
+EndGlobal
